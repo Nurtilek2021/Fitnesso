@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc8bc01-ef16-4b66-90a8-5ed8cf294aca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25AsGUWxbI1kJNxnDB53nMf7ury" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\header" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\scroll" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\tips" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\slider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\slider" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\images\bg-1" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\libs\jquery" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\libs\fancybox" />
+      <recent name="C:\Users\User\Desktop\Fitnesso\src\libs\carousel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc8bc01-ef16-4b66-90a8-5ed8cf294aca" name="Default Changelist" comment="" />
+      <created>1644981129642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644981129642</updated>
+      <workItem from="1644981133111" duration="2952000" />
+      <workItem from="1644988059872" duration="6848000" />
+      <workItem from="1645027369960" duration="4277000" />
+      <workItem from="1645037019261" duration="7410000" />
+      <workItem from="1645115624359" duration="6014000" />
+      <workItem from="1645148837556" duration="4474000" />
+      <workItem from="1645212575840" duration="6631000" />
+      <workItem from="1645256716713" duration="6570000" />
+      <workItem from="1645283371950" duration="12290000" />
+      <workItem from="1645346392843" duration="4940000" />
+      <workItem from="1645369022830" duration="3822000" />
+      <workItem from="1645408927825" duration="4708000" />
+      <workItem from="1645466528226" duration="1268000" />
+      <workItem from="1645583147470" duration="5804000" />
+      <workItem from="1645756260041" duration="1766000" />
+      <workItem from="1645943457751" duration="3073000" />
+      <workItem from="1645947679135" duration="3820000" />
+      <workItem from="1645977327289" duration="706000" />
+      <workItem from="1645978061129" duration="4534000" />
+      <workItem from="1646014353129" duration="6440000" />
+      <workItem from="1646064588389" duration="3959000" />
+      <workItem from="1646075297120" duration="437000" />
+      <workItem from="1646076497982" duration="83000" />
+      <workItem from="1646083174700" duration="20000" />
+      <workItem from="1646187786884" duration="5602000" />
+      <workItem from="1646205222157" duration="87000" />
+      <workItem from="1646360704674" duration="4942000" />
+      <workItem from="1646412098733" duration="8647000" />
+      <workItem from="1646459080030" duration="613000" />
+      <workItem from="1646559187402" duration="5648000" />
+      <workItem from="1646579954608" duration="9083000" />
+      <workItem from="1646618194571" duration="5904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1646624345322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1646624345322" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1646416599619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1646416599619" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1645756966356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1645756966356" />
+  </component>
+</project>
